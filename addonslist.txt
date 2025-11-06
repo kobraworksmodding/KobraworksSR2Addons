@@ -1,0 +1,1 @@
+Billboard Service (Uzis) | services/sr2/FetchKWorksAd.exe | Imports community-made billboard graphics into your game. Run this once after putting it in game files, again when more are added.
