@@ -2,4 +2,5 @@ SDR (Uzis) | resources/mods/SafetyDanceRestoration (SDR).zip | Total restoration
 SuperUI Vanilla (nklok1405, Clippy95) | resources/mods/SuperUI_vanilla.7z | Version of SuperUI Stripped of GOTR content and fit for Loose installation.
 CHeight (Clippy95) | https://www.saintsrowmods.com/forum/threads/cheight-customizable-character-height.22021/ | Allows you to customize character height.
 BlingMenu (Clippy95) | https://www.saintsrowmods.com/forum/threads/sr2-blingmenu.21866/ | An API supported by Juiced Patch with a custom menu that allows for trainers and stuff a-like.
+CGallery (Clippy95) | https://www.saintsrowmods.com/forum/threads/cgallery-cheight-character-gallery-player-height.22021/ | Saves Image-As-Designed morphs, a little bit like MySteelport in ways.
 
